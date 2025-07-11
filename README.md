@@ -25,27 +25,6 @@ A clean and responsive stopwatch app built using **Java** in **Android Studio**,
   - `Handler` for timing logic
   - `Intent` and `Activity` transition for splash navigation
 
----
-
-## 📂 Project Structure
-
-Stop-Watch-App/
-├── app/
-│ ├── java/com/example/stopwatchapp/
-│ │ ├── MainActivity.java # Stopwatch functionality
-│ │ └── SplashActivity.java # Splash screen on launch
-│ ├── res/
-│ │ ├── layout/
-│ │ │ ├── activity_main.xml # Stopwatch UI layout
-│ │ │ └── activity_splash.xml # Splash screen UI layout
-│ │ └── values/ # strings.xml, colors.xml, styles.xml
-│ └── AndroidManifest.xml # App declarations
-├── build.gradle
-└── ...
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -84,11 +63,4 @@ Pravallika
 
 GitHub: @pravallika-816
 
-📃 License
-This project is licensed under the MIT License.
 
-vbnet
-Copy
-Edit
-
-Let me know if you want a `.gif` of the working app, badges (build, license, etc.), or if you
